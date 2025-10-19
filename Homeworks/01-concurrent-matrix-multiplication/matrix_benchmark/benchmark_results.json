@@ -1,0 +1,182 @@
+[
+  {
+    "matrix_size": "100x100",
+    "sequential_time": 0.0555693104,
+    "parallel_time": 0.0524128052,
+    "speedup": 1.0602239316891209,
+    "sequential_std_dev": 0.0006984829524401003,
+    "parallel_std_dev": 0.00037678842849928366,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "200x200",
+    "sequential_time": 0.0799685834,
+    "parallel_time": 0.060041601199999996,
+    "speedup": 1.3318862555584212,
+    "sequential_std_dev": 0.002469540186699105,
+    "parallel_std_dev": 0.00016485213729327183,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "300x300",
+    "sequential_time": 0.1437171298,
+    "parallel_time": 0.0737442706,
+    "speedup": 1.9488582452668535,
+    "sequential_std_dev": 0.012964032205515345,
+    "parallel_std_dev": 0.0012090226385659748,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "400x400",
+    "sequential_time": 0.2491157802,
+    "parallel_time": 0.10867370600000001,
+    "speedup": 2.2923280098683665,
+    "sequential_std_dev": 0.004979629667478757,
+    "parallel_std_dev": 0.0013421646317433628,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "500x500",
+    "sequential_time": 0.43267729079999995,
+    "parallel_time": 0.16436920820000003,
+    "speedup": 2.6323500340375787,
+    "sequential_std_dev": 0.0014013976694391024,
+    "parallel_std_dev": 0.001530818670323743,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "600x600",
+    "sequential_time": 0.9133450164000001,
+    "parallel_time": 0.24093422979999998,
+    "speedup": 3.7908478888955286,
+    "sequential_std_dev": 0.3540474145168931,
+    "parallel_std_dev": 0.005560448708114095,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "700x700",
+    "sequential_time": 1.1157548404,
+    "parallel_time": 0.3505621456,
+    "speedup": 3.182759046874113,
+    "sequential_std_dev": 0.008445913786826012,
+    "parallel_std_dev": 0.004860525486200719,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "800x800",
+    "sequential_time": 1.6505487001999999,
+    "parallel_time": 0.5007751253999999,
+    "speedup": 3.2959877926875962,
+    "sequential_std_dev": 0.018252497239925322,
+    "parallel_std_dev": 0.0040112012032453605,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "900x900",
+    "sequential_time": 2.4510907715999997,
+    "parallel_time": 0.7374909026,
+    "speedup": 3.323553908202473,
+    "sequential_std_dev": 0.26699771362791963,
+    "parallel_std_dev": 0.006315898512968063,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1000x1000",
+    "sequential_time": 3.1547740718,
+    "parallel_time": 1.096552115,
+    "speedup": 2.876994197216062,
+    "sequential_std_dev": 0.034705547167455754,
+    "parallel_std_dev": 0.006806218158203791,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1100x1100",
+    "sequential_time": 4.426206737799999,
+    "parallel_time": 1.4474381786,
+    "speedup": 3.057959091614636,
+    "sequential_std_dev": 0.06325357592300315,
+    "parallel_std_dev": 0.005464167148469687,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1200x1200",
+    "sequential_time": 5.798021177200001,
+    "parallel_time": 1.9419320134,
+    "speedup": 2.985697304123758,
+    "sequential_std_dev": 0.32595508887853764,
+    "parallel_std_dev": 0.029821244327350244,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1300x1300",
+    "sequential_time": 8.327155987800001,
+    "parallel_time": 2.5328663918,
+    "speedup": 3.28764123317308,
+    "sequential_std_dev": 0.2426482185748688,
+    "parallel_std_dev": 0.025525265961779602,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1400x1400",
+    "sequential_time": 11.6914515248,
+    "parallel_time": 3.068735841,
+    "speedup": 3.809859215835971,
+    "sequential_std_dev": 1.651839730289345,
+    "parallel_std_dev": 0.009744951633370958,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1500x1500",
+    "sequential_time": 16.9632877474,
+    "parallel_time": 4.3168050444,
+    "speedup": 3.929593199814692,
+    "sequential_std_dev": 2.1734452024249467,
+    "parallel_std_dev": 0.026820249145368923,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1600x1600",
+    "sequential_time": 20.550058665599998,
+    "parallel_time": 5.3792672274,
+    "speedup": 3.820233834252664,
+    "sequential_std_dev": 0.6611199421783696,
+    "parallel_std_dev": 0.020431492394121165,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1700x1700",
+    "sequential_time": 27.168082283,
+    "parallel_time": 6.8007003176,
+    "speedup": 3.9948947923333504,
+    "sequential_std_dev": 0.10068676202269222,
+    "parallel_std_dev": 0.020190148430437458,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1800x1800",
+    "sequential_time": 28.9356103558,
+    "parallel_time": 7.201499910199999,
+    "speedup": 4.0179977388899815,
+    "sequential_std_dev": 0.11071241050185765,
+    "parallel_std_dev": 0.007892878441016396,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "1900x1900",
+    "sequential_time": 41.4748533498,
+    "parallel_time": 9.8096381316,
+    "speedup": 4.2279697572325485,
+    "sequential_std_dev": 0.5731513018661388,
+    "parallel_std_dev": 0.03163193579423748,
+    "iterations": 5
+  },
+  {
+    "matrix_size": "2000x2000",
+    "sequential_time": 38.7111651204,
+    "parallel_time": 9.508063500999999,
+    "speedup": 4.071403721307561,
+    "sequential_std_dev": 0.16280125338003332,
+    "parallel_std_dev": 0.03190947523037376,
+    "iterations": 5
+  }
+]
