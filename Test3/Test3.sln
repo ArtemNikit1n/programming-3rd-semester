@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleChat", "ConsoleChat\ConsoleChat.csproj", "{39576641-3E40-404A-BA63-7F79558D36AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleChat.Test", "ConsoleChat.Test\ConsoleChat.Test.csproj", "{D2C103EA-079F-4C43-9785-08191DCAFBC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39576641-3E40-404A-BA63-7F79558D36AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39576641-3E40-404A-BA63-7F79558D36AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39576641-3E40-404A-BA63-7F79558D36AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39576641-3E40-404A-BA63-7F79558D36AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C103EA-079F-4C43-9785-08191DCAFBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C103EA-079F-4C43-9785-08191DCAFBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C103EA-079F-4C43-9785-08191DCAFBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C103EA-079F-4C43-9785-08191DCAFBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
